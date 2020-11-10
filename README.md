@@ -22,4 +22,5 @@
 
 - lncRNA_id: The ids and names for  lncRNAs.
 - miRNA_id: The ids and names for  miRNAs.
-- Supplementary_Table_S1: The top 100 candidate lncRNA–miRNA interactions predicted by the SPMLMI method.
+- Supplementary_Table_S1: Prediction results of the top 120 MALAT1-related miRNAs, and ranked by their prediction scores.
+- Supplementary_Table_add: The top 100 candidate lncRNA–miRNA interactions predicted by the SPMLMI method.
