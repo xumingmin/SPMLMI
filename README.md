@@ -1,6 +1,6 @@
 # SPMLMI
 
-**SPMLMI: a structural perturbation method for predicting lncRNA–miRNA interactions based on a bilayer network in human**
+**SPMLMI: Predicting lncRNA–miRNA interactions in humans using a structural perturbation method**
 
 # Data：
 
