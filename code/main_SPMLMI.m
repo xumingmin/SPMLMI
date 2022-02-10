@@ -2,9 +2,9 @@ clear
 clc
 
 % Generate adjacent matrix Adj (Note: ensure the file path and file name is valid)
-LSmat='LS_nor_cor_abs.txt';
+LSmat='LS.txt';
 MLmat='ML_matrix.txt';
-MSmat='MS_nor_cor_abs.txt';
+MSmat='MS.txt';
 LS=load(LSmat);
 MS=load(MSmat);
 ML=load(MLmat);
