@@ -1,6 +1,7 @@
 # SPMLMI
 
 **SPMLMI: Predicting lncRNA–miRNA interactions in humans using a structural perturbation method**
+If you use this tool, please consider citing the following publication: https://doi.org/10.7717/peerj.11426
 
 # Data：
 
